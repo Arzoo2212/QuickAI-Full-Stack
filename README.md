@@ -4,13 +4,14 @@ A versatile full-stack application that provides a suite of AI-powered tools for
 
 **Live Demo**: [Quick AI - Live](https://quick-ai-full-stack-lkmq.vercel.app/)
 
-✨ Features
-✍️ AI Article Writer: Generate high-quality, engaging articles on any topic.
-📝 Blog Title Generator: Find the perfect, catchy title for your blog posts.
-🖼️ AI Image Generation: Create stunning visuals with our AI image generation tool
-🎨 Background Removal: Effortlessly remove backgrounds from your images.
-✂️ Object Removal: Seamlessly remove unwanted objects from your images.
-📄 Resume Reviewer: Get your resume reviewed by AI to improve your chances of landing your dream job.
+## ✨ Features
+
+- ✍️ **AI Article Writer:** Generate high-quality, engaging articles on any topic.
+- 📝 **Blog Title Generator:** Find the perfect, catchy title for your blog posts.
+- 🖼️ **AI Image Generation:** Create stunning visuals with our AI image generation tool.
+- 🎨 **Background Removal:** Effortlessly remove backgrounds from your images.
+- ✂️ **Object Removal:** Seamlessly remove unwanted objects from your images.
+- 📄 **Resume Reviewer:** Get your resume reviewed by AI to improve your chances of landing your dream job.
 
  Tech Stack
 
