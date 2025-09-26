@@ -6,7 +6,7 @@ A versatile full-stack application that provides a suite of AI-powered tools for
 
 ✨ Features
 ✍️ AI Article Writer: Generate high-quality, engaging articles on any topic.
-## Blog Title Generator: Find the perfect, catchy title for your blog posts.
+📝 Blog Title Generator: Find the perfect, catchy title for your blog posts.
 🖼️ AI Image Generation: Create stunning visuals with our AI image generation tool
 🎨 Background Removal: Effortlessly remove backgrounds from your images.
 ✂️ Object Removal: Seamlessly remove unwanted objects from your images.
