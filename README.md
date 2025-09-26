@@ -13,7 +13,7 @@ A versatile full-stack application that provides a suite of AI-powered tools for
 - ✂️ **Object Removal:** Seamlessly remove unwanted objects from your images.
 - 📄 **Resume Reviewer:** Get your resume reviewed by AI to improve your chances of landing your dream job.
 
- Tech Stack
+ ##Tech Stack
 
 - **Frontend**: React.js, Redux Toolkit, Tailwind CSS
 - **Backend**: Node.js, Express.js
