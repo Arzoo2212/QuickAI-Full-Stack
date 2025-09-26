@@ -1,4 +1,4 @@
-# Quick AI
+ Quick AI
 
 A versatile full-stack application that provides a suite of AI-powered tools for content creation, image editing, and career development. This app integrates various AI models to offer users an easy interface for AI-powered tasks. Built using modern web technologies, Quick AI ensures seamless functionality and high performance.
 
@@ -12,7 +12,7 @@ A versatile full-stack application that provides a suite of AI-powered tools for
 ✂️ Object Removal: Seamlessly remove unwanted objects from your images.
 📄 Resume Reviewer: Get your resume reviewed by AI to improve your chances of landing your dream job.
 
-## Tech Stack
+ Tech Stack
 
 - **Frontend**: React.js, Redux Toolkit, Tailwind CSS
 - **Backend**: Node.js, Express.js
